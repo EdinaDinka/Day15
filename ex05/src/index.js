@@ -1,5 +1,4 @@
 function myObject() {
-
     'use strict';
     const MATH_CONSTANTS = {
         E: 2.71828
